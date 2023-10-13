@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivianavilchis01
 - 👀 I’m currently learning about data science and programming. 
-- 🌱 I’m a an 8th-semester Bioengineering student.
+- 🌱 I’m a biotechnology engineer.
 - 💞️ I love learning new things about any topic!
 - 📫 Where to reach me?  vivi_vilchis@hotmail.com
 
